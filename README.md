@@ -12,6 +12,8 @@ No fixed screens. No hardcoded flows. Just: prompt goes in, live native UI comes
 
 ## Demo
 
+https://github.com/user-attachments/assets/cf266c4b-3029-4996-aadd-fe66344ca2e6
+
 https://github.com/kubilaysalih/generative-ui/raw/main/assets/demo.mp4
 
 If it doesn't play above, [watch it here](https://github.com/kubilaysalih/generative-ui/raw/main/assets/demo.mp4).
