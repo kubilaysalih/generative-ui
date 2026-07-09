@@ -9,9 +9,22 @@ No fixed screens. No hardcoded flows. Just: prompt goes in, live native UI comes
 
 ## Demo
 
-<video src="./assets/demo.mp4" controls muted playsinline width="320"></video>
+https://github.com/kubilaysalih/generative-ui/raw/main/assets/demo.mp4
 
-If the video doesn't play inline above, [watch it here](./assets/demo.mp4).
+If it doesn't play above, [watch it here](https://github.com/kubilaysalih/generative-ui/raw/main/assets/demo.mp4).
+
+## Try it in Expo Go
+
+It's published as an Expo Update, so you can run it right now without building anything.
+Install **Expo Go** (SDK 54) on your phone, then scan this QR or open the link:
+
+<img src="./assets/expo-go-qr.png" width="200" alt="Scan with Expo Go" />
+
+```
+exp://u.expo.dev/f36ec469-0f0a-44f9-8beb-642030cc9554/group/990c9f15-a565-4fce-ac09-9f6f5d6c8a7a
+```
+
+Mock mode is on, so it works fully offline. Open Settings to plug in your own model.
 
 ## The idea
 
