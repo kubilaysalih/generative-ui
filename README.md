@@ -1,5 +1,8 @@
 # Generative UI
 
+> [!WARNING]
+> **IF YOU TRY IT WITH YOUR OWN API KEY, USE A LOW-CREDIT / LIMITED KEY AND DELETE IT AFTER TESTING. OR BETTER, JUST CLONE THE REPO AND RUN IT YOURSELF.**
+
 A mobile app where **every screen is written by an LLM at runtime**. You type what you want
 into the bar at the bottom, and instead of answering with text, the model streams back a
 **UI**, which the app parses and renders into real native components, top to bottom, as the
