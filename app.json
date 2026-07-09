@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "generative-ui",
+    "slug": "generative-ui",
+    "owner": "kubilaysalih",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": [
+          "youtube",
+          "spotify",
+          "twitter",
+          "instagram",
+          "maps",
+          "comgooglemaps",
+          "itms-apps"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f36ec469-0f0a-44f9-8beb-642030cc9554"
+      }
+    }
+  }
+}
